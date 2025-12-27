@@ -1,17 +1,6 @@
 # findit-post-search-and-filter
 Findit Post Search and Filter is a lightweight and intuitive WordPress plugin that lets users quickly search and filter posts by tags and categories, enhancing the default WordPress search experience.
 
-=== Findit Post Search and Filter ===
-Contributors: sylvie9
-Tags: post search, post category filter, tag filter,ajax, highlighting
-Requires at least: 5.8  
-Tested up to: 6.8  
-Requires PHP: 7.4  
-Stable tag: 1.0
-License: GPLv2 or later  
-License URI: https://www.gnu.org/licenses/gpl-2.0.html  
-
-A clean, responsive AJAX-powered search plugin for WordPress posts with keyword highlighting, category/tag filtering, and load more pagination.
 
 == Description ==
 
